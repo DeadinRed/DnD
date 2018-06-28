@@ -1,0 +1,14 @@
+F:/DnD/DnD/bin/Debug/DnD.exe.config
+F:/DnD/DnD/bin/Debug/DnD.exe
+F:/DnD/DnD/bin/Debug/DnD.pdb
+F:/DnD/DnD/obj/x86/Debug/DnD.csprojResolveAssemblyReference.cache
+F:/DnD/DnD/obj/x86/Debug/DnD.csproj.CoreCompileInputs.cache
+F:/DnD/DnD/obj/x86/Debug/DnD.exe
+F:/DnD/DnD/obj/x86/Debug/DnD.pdb
+/home/sashka/DnD/DnD/bin/Debug/DnD.exe.config
+/home/sashka/DnD/DnD/bin/Debug/DnD.exe
+/home/sashka/DnD/DnD/bin/Debug/DnD.pdb
+/home/sashka/DnD/DnD/obj/x86/Debug/DnD.csproj.CoreCompileInputs.cache
+/home/sashka/DnD/DnD/obj/x86/Debug/DnD.exe
+/home/sashka/DnD/DnD/obj/x86/Debug/DnD.pdb
+/home/sashka/DnD/DnD/obj/x86/Debug/DnD.csprojResolveAssemblyReference.cache

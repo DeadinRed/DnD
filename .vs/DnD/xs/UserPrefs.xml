@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FD091897-6BA9-4570-9A38-A2B30D52CA3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DnD/Program.cs">
+    <Files>
+      <File FileName="DnD/Program.cs" Line="25" Column="13" />
+      <File FileName="DnD/Personality/Personality.cs" Line="8" Column="60" />
+      <File FileName="DnD/Items/Armor.cs" Line="62" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DnD PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/sashka/MyProject/Mono/DnD/DnD/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sashka/MyProject/Mono/DnD/DnD/bin/Debug/DnD.pdb
+/home/sashka/MyProject/Mono/DnD/DnD/bin/Debug/DnD.exe
+/home/sashka/MyProject/Mono/DnD/DnD/obj/x86/Debug/DnD.exe
+/home/sashka/MyProject/Mono/DnD/DnD/obj/x86/Debug/DnD.pdb
+/home/sashka/MyProject/Mono/DnD/DnD/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
